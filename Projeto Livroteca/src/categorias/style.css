@@ -1,0 +1,79 @@
+.box{
+    padding: 10px;
+    background: rgba(0,0,0,.3);
+}
+
+.box .item{
+    display: inline-block;
+    margin: auto 20px 20px 20px; 
+    min-height: 200px;
+    min-width: 180px;
+}
+
+.btn-comprar{
+    margin: auto;
+    text-align:center;
+    background: #ff6844;
+    border: none;
+    font-family: cursive;
+    width: 100%;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.btn-comprar:hover{
+    background: #ff6844;
+    color: #fff;
+    border: 1px solid #000;
+    transition: 0.5s;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    +
+    display: block;
+}
